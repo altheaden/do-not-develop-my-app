@@ -1,0 +1,5 @@
+# My IDE makes these json files that I don't want to push to git
+.json
+
+# Don't want anybody reading my personal agenda
+glootie\my-notes.txt
