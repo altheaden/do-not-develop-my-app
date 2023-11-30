@@ -1,1 +1,3 @@
 Jerry has decided to help Glootie develop his application. However, he soon realizes that Glootie knows absolutely nothing about Git, or any sort of version control workflow. This repo needs some serious help...
+
+Pick a branch to start with, and follow the prompt in the README describing what needs to happen to fix the branch.
